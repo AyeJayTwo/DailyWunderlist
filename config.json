@@ -1,0 +1,12 @@
+{
+"client_id" : "7edc257c5901ecf7c752",
+"redirect_uri" : "http://www.ankitjain.info/",
+"client_secret" : "0eba4fb1808e531469a21c1a9218a1b56a355939cb142d73ad7d44700080",
+"state" : "ANKIT",
+"code" : "a74975f074c8834d8785",
+"token" : "7ee10ac349ec26385ebcc8496007c4013edc4ec709313f588dc6905b8995",
+"mailgun_api" : "sandbox7de2d20095c04c84a62ffde8e20ce1db.mailgun.org",
+"mailgun_key" : "key-ea75de97c4830d561642438f0b03ee1a",
+"to_name" : "Ankit Jain",
+"to_email" : "jainankit68@gmail.com"
+}
