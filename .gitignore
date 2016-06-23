@@ -1,3 +1,4 @@
 *.pyc
 wunderlist_credentials.json
 config.json
+bfg.jar
