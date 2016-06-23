@@ -1,4 +1,8 @@
 *.pyc
 wunderlist_credentials.json
+<<<<<<< HEAD
 config.json
 bfg.jar
+=======
+config.json
+>>>>>>> origin/master
