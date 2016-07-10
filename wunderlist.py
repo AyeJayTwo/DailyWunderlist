@@ -119,7 +119,6 @@ def generateEmail(config):
 			else:
 				text+='<li>'+each[i][1]+'</li>'
 
-		text+='</UL>'
 	text+='</HTML>'
 
 	text_file = open('TEST_EMAIL.html', 'w')
