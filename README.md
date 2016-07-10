@@ -18,8 +18,9 @@ I've done a good job writing random scripts for small things here and there. I'v
 
 TODO
 - Make workflow so others can use the app
+- Remove use of range, and recode to utilize the awesomeness of enumerate()
 - Deploy this to a webserver
-- Automate running this everyday
+- Automate running this everyday [DONE]
 - Move from MailGun sandbox to production server
 - Allow user to choose which lists get sent everyday
-- Reorganize it away from list based to time based format
+- Reorganize it away from list based to time based format [DONE]
